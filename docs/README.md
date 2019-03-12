@@ -15,7 +15,3 @@ Features
 - Supports Django 2.0
 
 Click [here](quick-start.html) to get started
-
-
-
-
